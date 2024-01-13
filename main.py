@@ -1,8 +1,10 @@
-def solve (a, b): 
+def solve(a, b): 
     return a + b
-  
-def hello ():
+
+
+def hello():
     return "Hi Nikhil"
+
 
 print(hello())
 print(solve(4, 5))
