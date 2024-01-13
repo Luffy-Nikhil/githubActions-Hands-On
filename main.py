@@ -1,5 +1,6 @@
 def solve (a, b): 
-  return (a + b)
+    return a + b
+  
 def hello ():
     return "Hi Nikhil"
 
