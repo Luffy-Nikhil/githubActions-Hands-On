@@ -1,5 +1,4 @@
-
-def solve(a, b): 
+def solve(a, b):
     return a + b
 
 
